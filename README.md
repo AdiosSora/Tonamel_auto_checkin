@@ -2,16 +2,16 @@
 
 <br>
 使用言語(バージョン) : Python(3.12.1)
-<br>
-必要ライブラリ<br>
-  下記ライブラリをpip installしてください。<br>
-  <br>
+<br><br>
+必要ライブラリ※下記ライブラリをpip installしてください。<br>
   pip install pysimplegui<br>
   pip install opencv-python<br>
   pip install configparser<br>
   pip install urllib<br>
   pip install selenium<br>
 <br>
+![image](https://github.com/AdiosSora/Tonamel_auto_checkin/assets/11624644/062af5b2-e368-46da-b91a-72432dae009f)
+
 <br>
 本リポジトリクローン後のディレクトにChromeフォルダを作成してください。<br>
 Chromeフォルダには下記URLからテスト版のChromeをダウンロードし、入れてください。<br>
